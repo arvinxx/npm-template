@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.4](https://github.com/arvinxx/npm-template/compare/v1.2.3...v1.2.4) (2023-01-01)
+
+### 🐛 Bug Fixes
+
+- 修正 jest 测试配置问题 ([ed8a6e4](https://github.com/arvinxx/npm-template/commit/ed8a6e4))
+
 ## [1.2.3](https://github.com/arvinxx/npm-template/compare/v1.2.2...v1.2.3) (2023-01-01)
 
 ### 🐛 Bug Fixes

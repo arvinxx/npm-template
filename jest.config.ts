@@ -19,6 +19,7 @@ const config: Config.InitialOptions = {
   moduleNameMapper: {
     '@arvinxu/npm-template/(.*)$': '<rootDir>/src/$1',
     '@arvinxu/npm-template': '<rootDir>/src',
+    '@/(.*)$': '<rootDir>/src/$1',
   },
   // if you require some es-module npm package, please uncomment below line and insert your package name
   // transformIgnorePatterns: ['node_modules/(?!.*(lodash-es|your-es-pkg-name)/)']

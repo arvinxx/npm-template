@@ -9,6 +9,7 @@
     "baseUrl": ".",
     "paths": {
       "@@/*": [".dumi/tmp/*"],
+      "@/*": ["src"],
       "@arvinxu/npm-template": ["src"],
       "@arvinxu/npm-template/*": ["src/*", "*"]
     }

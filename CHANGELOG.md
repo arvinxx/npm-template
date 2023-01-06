@@ -1,5 +1,11 @@
 # Changelog
 
+# [1.3.0](https://github.com/arvinxx/npm-template/compare/v1.2.4...v1.3.0) (2023-01-06)
+
+### ✨ Features
+
+- 支持 alpha beta rc 频道的发版 ([0cfe840](https://github.com/arvinxx/npm-template/commit/0cfe840))
+
 ## [1.2.4](https://github.com/arvinxx/npm-template/compare/v1.2.3...v1.2.4) (2023-01-01)
 
 ### 🐛 Bug Fixes

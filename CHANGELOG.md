@@ -1,5 +1,11 @@
 # Changelog
 
+# [1.5.0](https://github.com/arvinxx/npm-template/compare/v1.4.0...v1.5.0) (2023-02-09)
+
+### ✨ Features
+
+- 升级 semantic-release 版本 ([31e1495](https://github.com/arvinxx/npm-template/commit/31e1495))
+
 # [1.4.0](https://github.com/arvinxx/npm-template/compare/v1.3.1...v1.4.0) (2023-01-06)
 
 ### ✨ Features

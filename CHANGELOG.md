@@ -1,4 +1,4 @@
-# Changelog
+# 更新日志
 
 # [1.5.0](https://github.com/arvinxx/npm-template/compare/v1.4.0...v1.5.0) (2023-02-09)
 

@@ -73,6 +73,7 @@
     "concurrently": "^7",
     "cross-env": "^7",
     "dumi": "^2",
+    "dumi-theme-antd-style": "latest",
     "eslint": "^8",
     "eslint-import-resolver-alias": "^1",
     "eslint-import-resolver-typescript": "^2",

@@ -1,3 +1,11 @@
+# Changelog
+
+# [1.6.0](https://github.com/arvinxx/npm-template/compare/v1.5.0...v1.6.0) (2023-02-15)
+
+### ✨ 新特性
+
+- 内置 dumi-theme-antd-style 主题包 ([de4b5a0](https://github.com/arvinxx/npm-template/commit/de4b5a0))
+
 # 更新日志
 
 # [1.5.0](https://github.com/arvinxx/npm-template/compare/v1.4.0...v1.5.0) (2023-02-09)

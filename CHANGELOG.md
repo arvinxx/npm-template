@@ -1,5 +1,11 @@
 # Changelog
 
+# [1.7.0](https://github.com/arvinxx/npm-template/compare/v1.6.0...v1.7.0) (2023-04-09)
+
+### ✨ 新特性
+
+- 迁移测试框架到 vitest ([5a0e7f7](https://github.com/arvinxx/npm-template/commit/5a0e7f7))
+
 # [1.6.0](https://github.com/arvinxx/npm-template/compare/v1.5.0...v1.6.0) (2023-02-15)
 
 ### ✨ 新特性

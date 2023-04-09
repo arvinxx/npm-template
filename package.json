@@ -86,7 +86,7 @@
     "semantic-release": "^20",
     "semantic-release-config-gitmoji": "^1",
     "stylelint": "^14",
-    "typescript": "^4",
+    "typescript": "^5",
     "vitest": "latest"
   },
   "publishConfig": {

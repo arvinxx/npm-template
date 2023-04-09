@@ -8,6 +8,7 @@
     "resolveJsonModule": true,
     "jsx": "react-jsx",
     "baseUrl": ".",
+    "types": ["vitest/globals"],
     "paths": {
       "@@/*": [".dumi/tmp/*"],
       "@/*": ["src"],

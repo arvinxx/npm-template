@@ -6,4 +6,5 @@ export default defineConfig({
     name: '@arvinxu/npm-template',
     github: homepage,
   },
+  html2sketch: {},
 });

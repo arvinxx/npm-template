@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.8.0](https://github.com/arvinxx/npm-template/compare/v1.7.0...v1.8.0) (2023-05-23)
+
+### ✨ 新特性
+
+- 升级基础依赖，并开启 ([63bad90](https://github.com/arvinxx/npm-template/commit/63bad90))
+- 默认开启 html2sketch 配置 ([10fb123](https://github.com/arvinxx/npm-template/commit/10fb123))
+
 # [1.7.0](https://github.com/arvinxx/npm-template/compare/v1.6.0...v1.7.0) (2023-04-09)
 
 ### ✨ 新特性

@@ -1,5 +1,32 @@
 # Changelog
 
+# [Version&nbsp;1.10.0](https://github.com/arvinxx/npm-template/compare/v1.9.1...v1.10.0)
+
+<sup>Released on **2023-06-10**</sup>
+
+#### ✨ 新特性
+
+- \*\*\*\*: Add contributor-helper workflow and PR template.
+- **readme**: Update README formatting and content.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+##### What's improved
+
+- Add contributor-helper workflow and PR template ([15ac439](https://github.com/arvinxx/npm-template/commit/15ac439))
+- **readme**: Update README formatting and content ([de92198](https://github.com/arvinxx/npm-template/commit/de92198))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version&nbsp;1.9.1](https://github.com/arvinxx/npm-template/compare/v1.9.0...v1.9.1)
 
 <sup>Released on **2023-06-10**</sup>

@@ -1,5 +1,38 @@
 # Changelog
 
+# [Version&nbsp;1.9.0](https://github.com/arvinxx/npm-template/compare/v1.8.0...v1.9.0)
+
+<sup>Released on **2023-06-10**</sup>
+
+#### ✨ 新特性
+
+- \*\*\*\*: 升级 changelog 配置.
+
+#### 🐛 修复
+
+- \*\*\*\*: 兼容最新的 vitest v8 provider.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+##### What's improved
+
+- 升级 changelog 配置 ([37562fa](https://github.com/arvinxx/npm-template/commit/37562fa))
+
+##### What's fixed
+
+- 兼容最新的 vitest v8 provider ([e29309e](https://github.com/arvinxx/npm-template/commit/e29309e))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 # [1.8.0](https://github.com/arvinxx/npm-template/compare/v1.7.0...v1.8.0) (2023-05-23)
 
 ### ✨ 新特性

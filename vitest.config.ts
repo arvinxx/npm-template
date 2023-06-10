@@ -13,5 +13,8 @@ export default defineConfig({
       '@': './src',
       [name]: './src',
     },
+    coverage: {
+      reporter: ['text', 'text-summary', 'json', 'lcov'],
+    },
   },
 });

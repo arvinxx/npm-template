@@ -33,7 +33,7 @@
 
 #### 🐛 修复
 
-- \*\*\*\*: Update release workflow.
+- Update release workflow.
 
 <br/>
 
@@ -58,11 +58,11 @@
 
 #### ✨ 新特性
 
-- \*\*\*\*: 升级 changelog 配置.
+- 升级 changelog 配置.
 
 #### 🐛 修复
 
-- \*\*\*\*: 兼容最新的 vitest v8 provider.
+- 兼容最新的 vitest v8 provider.
 
 <br/>
 

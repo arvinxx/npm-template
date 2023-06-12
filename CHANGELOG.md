@@ -1,5 +1,30 @@
 # Changelog
 
+## [Version&nbsp;1.11.0](https://github.com/arvinxx/npm-template/compare/v1.10.0...v1.11.0)
+
+<sup>Released on **2023-06-12**</sup>
+
+#### ✨ 新特性
+
+- Upgrade changelog configuration.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- Upgrade changelog configuration ([cac6de6](https://github.com/arvinxx/npm-template/commit/cac6de6))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 # [Version&nbsp;1.10.0](https://github.com/arvinxx/npm-template/compare/v1.9.1...v1.10.0)
 
 <sup>Released on **2023-06-10**</sup>

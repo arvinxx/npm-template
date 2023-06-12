@@ -27,6 +27,7 @@
   "scripts": {
     "build": "father build",
     "build:watch": "father dev",
+    "changelog": "conventional-changelog -n node_modules/conventional-changelog-gitmoji-config -i CHANGELOG.md -s -r 0",
     "ci": "npm run lint && npm run type-check && npm run doctor && npm run build",
     "clean": "rm -rf es lib dist coverage .dumi/tmp .eslintcache",
     "dev": "dumi dev",
@@ -67,6 +68,7 @@
     "commitlint": "^17",
     "commitlint-config-gitmoji": "^2",
     "concurrently": "^7",
+    "conventional-changelog-gitmoji-config": "^1",
     "cross-env": "^7",
     "dumi": "^2",
     "dumi-theme-antd-style": "latest",

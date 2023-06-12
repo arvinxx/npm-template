@@ -1,5 +1,30 @@
 # Changelog
 
+### [Version&nbsp;1.11.1](https://github.com/arvinxx/npm-template/compare/v1.11.0...v1.11.1)
+
+<sup>Released on **2023-06-12**</sup>
+
+#### 🐛 修复
+
+- 更新 CHANGELOG 格式到最新.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- 更新 CHANGELOG 格式到最新 ([050dc64](https://github.com/arvinxx/npm-template/commit/050dc64))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## Version&nbsp;1.11.0
 
 <sup>Released on **2023-06-12**</sup>

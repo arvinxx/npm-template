@@ -93,10 +93,10 @@ pnpm i @arvinxu/npm-template -S
 > 📊 Total: <kbd>**2**</kbd>
 
 <a href="https://github.com/arvinxx" title="arvinxx">
-  <img src="https://private-avatars.githubusercontent.com/u/28616219?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQ5MDAsIm5iZiI6MTczNDY1MzcwMCwicGF0aCI6Ii91LzI4NjE2MjE5In0.B_YLXEvejllDJEESH-Enx7niR82jiLfeZi6-YMptm74&v=4" width="50" />
+  <img src="https://avatars.githubusercontent.com/u/28616219?v=4" width="50" />
 </a>
 <a href="https://github.com/actions-user" title="actions-user">
-  <img src="https://private-avatars.githubusercontent.com/u/65916846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQxMjAsIm5iZiI6MTczNDY1MjkyMCwicGF0aCI6Ii91LzY1OTE2ODQ2In0.GAgJ5JRfb1nI2tEKqvJvC9CgL5lyA2VE8LAqJ6MvbT4&v=4" width="50" />
+  <img src="https://avatars.githubusercontent.com/u/65916846?v=4" width="50" />
 </a>
 
 <!-- CONTRIBUTION END -->
